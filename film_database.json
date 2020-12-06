@@ -1,0 +1,17 @@
+{
+    "Movies": [
+        {
+            "Title": "BSsadas",
+            "Rating": "1"
+        },
+        {
+            "Title": "siunger",
+            "Rating": "5"
+        },
+        {
+            "Title": "fajny film",
+            "Rating": "4"
+        },
+        {}
+    ]
+}
