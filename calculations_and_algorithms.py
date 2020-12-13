@@ -146,5 +146,5 @@ if __name__ == '__main__':
     # matrix_generation(4,4)
     # matrix_sum(matrix_generation(128, 128), matrix_generation(128, 128))
     # matrix_multiplication(matrix_generation(3, 3), matrix_generation(3, 4))
-     det_of_matrix(matrix_generation(2, 2)) # NIE DZIALA DOBRZE
+     det_of_matrix(matrix_generation(2, 2)) 
     # luDecomposition(matrix_generation(3,3),3)
